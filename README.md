@@ -1,5 +1,8 @@
 # Classical Piano Composer
 
+![1_tzfrAkHCbGjBXA5ZOthjrw](https://user-images.githubusercontent.com/65728666/179179040-4a19c86d-b1ab-4e33-842a-3b42800d8f23.png)
+
+
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
 
 ## Requirements
